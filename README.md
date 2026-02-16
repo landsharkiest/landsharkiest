@@ -21,4 +21,4 @@ My primary focus is on Artificial Intelligence and Machine Learning. I enjoy tur
 I'm always open to talking about AI, tech opportunities, or baseball! 
 
 * **Portfolio:** [owenkirchenstien.com](https://owenkirchenstien.com)
-* **LinkedIn:** [linkedin.com/in/owenkirchenstien](https://linkedin.com/in/owenkirchenstien)
+* **LinkedIn:** [linkedin.com/in/owenkirchenstien](https://linkedin.com/in/owen-kirchenstien)
